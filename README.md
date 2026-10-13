@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Maya Qasimi 👋
 
-<!--
-**MayaQasimi/MayaQasimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics student at **Universitas Islam Indonesia (UII)**, building healthcare systems with a focus on **securing sensitive data**, at the point where cloud, security and AI meet.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Rebuilding my healthcare projects with **cloud deployment and security built in**
+- Teaching as a **Cyber Laboratory assistant** at UII
+
+## 🛠️ Skills
+
+- **Languages:** Java, Kotlin, JavaScript, HTML/CSS, PHP, SQL
+- **Databases:** MySQL
+- **AI:** LLM APIs, RAG
+- **Strengths:** project leadership, organizing and coordinating teams
+
+## 📌 Projects
+
+| Project | What it does | Status |
+|---|---|---|
+| **SafePulseID** | Fingerprint-based patient identification so ambulance and ER teams can access a patient's records in an emergency. I came up with the concept and built most of the system. | Being rebuilt |
+| **PIMIS** | Pharmacy inventory management system with an AI assistant using RAG. | Being rebuilt |
+
+## 🏆 Highlights
+
+- Future Global Leaders Scholarship (FGLS) awardee
+- IBCC competition semifinalist
+
+## 🌐 Languages
+
+Arabic · English
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/maya-qasimi-04476a264) · [Email](mailto:mayaqasimi77@gmail.com)
